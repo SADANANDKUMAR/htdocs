@@ -1,0 +1,16 @@
+this is CRUD operation (insert, Delete,Update,Read,Create).
+Using Skill: Php
+database: mysql (Phpmyadmin)
+Ide: vc code
+
+download this project and try it:
+
+open project like : //http:localhost/CRUD
+
+must:- put this project in your htdoc file.
+
+--------  --------- ----------- -------- --------- ------------
+mailto:sadanandkr968686@gmail.com
+
+
+- - - - - - - - <******* THANK YOU ******> - - - - - - - - - - -
